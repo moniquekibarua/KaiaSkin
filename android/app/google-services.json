@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "162974868808",
+    "project_id": "kaiaskin-4ea5a",
+    "storage_bucket": "kaiaskin-4ea5a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162974868808:android:6a0d9dcb80bb28ff6e3f7d",
+        "android_client_info": {
+          "package_name": "com.example.kaia_skin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnK1HFbDcMSNSKtDy3ixA3__KXKtRBets"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
